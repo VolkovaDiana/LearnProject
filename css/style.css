@@ -1,14 +1,13 @@
-@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;700;800&display=swap");
-.body {
-  margin: 0;
+body {
+  margin: 0px;
   font-family: "Fira Sans", sans-serif;
   color: #111238;
   font-size: 16px;
 }
 .menu {
   list-style: none;
-  padding: 0;
-  margin: 0;
+  padding: 0px;
+  margin: 0px;
 }
 .menu-item:not(:last-child) {
   margin-right: 20px;
